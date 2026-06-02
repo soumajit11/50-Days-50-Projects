@@ -6,7 +6,7 @@ Building 50 projects in 50 days using HTML, CSS, and JavaScript.
 
 - [x] Day 00 - Project Starter
 - [x] Day 01 - Expanding Cards
-- [ ] Day 02
+- [X] Day 02 - Progress Steps
 - [ ] Day 03
       ...
 - [ ] Day 50
