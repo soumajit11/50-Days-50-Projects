@@ -9,5 +9,6 @@ Building 50 projects in 50 days using HTML, CSS, and JavaScript.
 - [x] Day 02 - Progress Steps
 - [x] Day 03 - Rotating Navigation
 - [x] Day 04 - Hidden Search Widget
+- [x] Day 05 - Blurry Loading
       ...
 - [ ] Day 50
