@@ -10,5 +10,25 @@ Building 50 projects in 50 days using HTML, CSS, and JavaScript.
 - [x] Day 03 - Rotating Navigation
 - [x] Day 04 - Hidden Search Widget
 - [x] Day 05 - Blurry Loading
-      ...
-- [ ] Day 50
+- [x] Day 06 - Scroll Animation
+- [x] Day 07 - Split Landing Page
+- [x] Day 08 - Wave Form Animation
+- [x] Day 09 - Sound Board
+- [x] Day 10 - Dad Jokes
+- [x] Day 11 - Event Keycodes
+- [x] Day 12 - FAQ Collapse
+- [x] Day 13 - Random Choice Picker
+- [x] Day 14 - Animated Navigation
+- [x] Day 15 - Incrementing Counter
+- [x] Day 16 - Drink Water
+- [x] Day 17 - Movie App
+- [x] Day 18 - Background Slider
+- [x] Day 19 - Theme Clock
+- [x] Day 20 - Button Ripple Effect
+- [x] Day 21 - Drag and Drop
+
+- [ ] Day 22 - Day 50: (remaining projects)
+
+## Notes
+
+- Projects 00–21 are present in the workspace folder. Let me know if you want me to mark additional days, add links to each project README, or generate a small index page.
