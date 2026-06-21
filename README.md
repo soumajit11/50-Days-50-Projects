@@ -26,8 +26,9 @@ Building 50 projects in 50 days using HTML, CSS, and JavaScript.
 - [x] Day 19 - Theme Clock
 - [x] Day 20 - Button Ripple Effect
 - [x] Day 21 - Drag and Drop
+- [x] Day 22 - Drawing App
 
-- [ ] Day 22 - Day 50: (remaining projects)
+- [ ] Day 50: (remaining projects)
 
 ## Notes
 
