@@ -30,9 +30,6 @@ Building 50 projects in 50 days using HTML, CSS, and JavaScript.
 - [x] Day 23 - Kinetic Loader
 - [x] Day 24 - Content Placeholder
 - [x] Day 25 - Sticky Navbar
+- [x] Day 26 - Double Vertical Slider
 
 - [ ] Day 50: (remaining projects)
-
-## Notes
-
-- Projects 00–21 are present in the workspace folder. Let me know if you want me to mark additional days, add links to each project README, or generate a small index page.
