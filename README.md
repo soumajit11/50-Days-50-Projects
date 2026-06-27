@@ -31,5 +31,7 @@ Building 50 projects in 50 days using HTML, CSS, and JavaScript.
 - [x] Day 24 - Content Placeholder
 - [x] Day 25 - Sticky Navbar
 - [x] Day 26 - Double Vertical Slider
+- [x] Day 27 - Toast Notification
+- [x] Day 28 - Github Profiles
 
 - [ ] Day 50: (remaining projects)
