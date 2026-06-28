@@ -33,5 +33,6 @@ Building 50 projects in 50 days using HTML, CSS, and JavaScript.
 - [x] Day 26 - Double Vertical Slider
 - [x] Day 27 - Toast Notification
 - [x] Day 28 - Github Profiles
+- [x] Day 29 - Double Click Heart
 
 - [ ] Day 50: (remaining projects)
