@@ -35,5 +35,6 @@ Building 50 projects in 50 days using HTML, CSS, and JavaScript.
 - [x] Day 28 - Github Profiles
 - [x] Day 29 - Double Click Heart
 - [x] Day 30 - Auto Text Effect
+- [x] Day 31 - Password Generator
 
 - [ ] Day 50: (remaining projects)
