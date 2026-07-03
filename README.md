@@ -37,5 +37,7 @@ Building 50 projects in 50 days using HTML, CSS, and JavaScript.
 - [x] Day 30 - Auto Text Effect
 - [x] Day 31 - Password Generator
 - [x] Day 32 - Good, Cheap, Fast
+- [x] Day 33 - Notes app
+- [x] Day 34 - Animated Countdown
 
 - [ ] Day 50: (remaining projects)
