@@ -39,5 +39,7 @@ Building 50 projects in 50 days using HTML, CSS, and JavaScript.
 - [x] Day 32 - Good, Cheap, Fast
 - [x] Day 33 - Notes app
 - [x] Day 34 - Animated Countdown
+- [x] Day 35 - Image Carousal
+- [x] Day 36 - Hoverboard
 
 - [ ] Day 50: (remaining projects)
