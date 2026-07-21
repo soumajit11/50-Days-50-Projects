@@ -126,7 +126,7 @@ git clone https://github.com/soumajit11/50-Days-50-Projects.git
 Move into the project directory:
 
 ```bash
-cd <repository-name>
+cd <50-Days-50-Projects
 ```
 
 Open any project's `index.html` in your browser, or start a local development server:
